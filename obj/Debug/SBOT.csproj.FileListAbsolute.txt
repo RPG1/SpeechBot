@@ -1,0 +1,11 @@
+C:\Users\rpgfx\OneDrive\Desktop\SBot\SBOT\SBOT\bin\Debug\SBOT.exe.config
+C:\Users\rpgfx\OneDrive\Desktop\SBot\SBOT\SBOT\bin\Debug\SBOT.exe
+C:\Users\rpgfx\OneDrive\Desktop\SBot\SBOT\SBOT\bin\Debug\SBOT.pdb
+C:\Users\rpgfx\OneDrive\Desktop\SBot\SBOT\SBOT\obj\Debug\SBOT.csproj.AssemblyReference.cache
+C:\Users\rpgfx\OneDrive\Desktop\SBot\SBOT\SBOT\obj\Debug\SBOT.csproj.SuggestedBindingRedirects.cache
+C:\Users\rpgfx\OneDrive\Desktop\SBot\SBOT\SBOT\obj\Debug\SBOT.Form1.resources
+C:\Users\rpgfx\OneDrive\Desktop\SBot\SBOT\SBOT\obj\Debug\SBOT.Properties.Resources.resources
+C:\Users\rpgfx\OneDrive\Desktop\SBot\SBOT\SBOT\obj\Debug\SBOT.csproj.GenerateResource.cache
+C:\Users\rpgfx\OneDrive\Desktop\SBot\SBOT\SBOT\obj\Debug\SBOT.csproj.CoreCompileInputs.cache
+C:\Users\rpgfx\OneDrive\Desktop\SBot\SBOT\SBOT\obj\Debug\SBOT.exe
+C:\Users\rpgfx\OneDrive\Desktop\SBot\SBOT\SBOT\obj\Debug\SBOT.pdb

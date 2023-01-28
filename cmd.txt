@@ -1,0 +1,7 @@
+﻿hello
+exit
+show cmd
+hide cmd
+open youtube
+go to my channel in youtube
+what time
